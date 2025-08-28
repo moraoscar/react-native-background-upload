@@ -28,9 +28,9 @@
   "author": "Steve Potter",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/Vydia/react-native-background-upload-nuo/issues"
+    "url": "https://github.com/moraoscar/react-native-background-upload/issues"
   },
-  "homepage": "https://github.com/Vydia/react-native-background-upload-nuo#readme",
+  "homepage": "https://github.com/moraoscar/react-native-background-upload#readme",
   "devDependencies": {
     "@react-native-community/eslint-config": "^0.0.7",
     "@semantic-release/commit-analyzer": "^6.3.3",
